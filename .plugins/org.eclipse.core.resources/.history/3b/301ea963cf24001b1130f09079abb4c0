@@ -1,0 +1,30 @@
+package cqlculhqrirq;
+import java.util.Scanner;
+public class cqlculhqrirq {
+
+	public static void main(String[] args) {
+		System.out.println("1:Somme\n 2:soustra\n 3:produit\n 4:Div\n");
+		Scanner Scanner1 = new Scanner(System.in);
+		int i = Scanner1.nextInt();
+		switch(i) {
+		case 1:{
+			LaSomme();
+            break;
+		}
+		case 2:{
+			Lasoustra();
+			break;
+		}
+		case 3:{
+			Leproduit();
+			break;
+		}
+		case 4:{
+			Div();
+			break;
+		}
+	}
+	}
+
+
+}

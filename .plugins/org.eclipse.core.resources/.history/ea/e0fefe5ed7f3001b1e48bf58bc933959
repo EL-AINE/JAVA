@@ -1,0 +1,57 @@
+package tostring;
+
+import java.util.Iterator;
+import java.util.StringTokenizer;
+
+public class toss {
+	
+	int age;
+	String name;
+	String fonction;
+	
+
+	public toss(int age, String name, String fonction) {
+		this.age = age;
+		this.name = name;
+		this.fonction = fonction;
+	}
+	
+
+
+	@Override
+	public String toString() {
+		return "toss [age=" + age + ", name=" + name + ", fonction=" + fonction + "]";
+	}
+
+
+
+	public static void main(String[] args) {
+		toss l1=new toss(21,"Ayoub","s.off");
+		toss l2=new toss(22,"Oussama","ista");
+System.out.println(l1);
+System.out.println(l2);
+
+StringTokenizer str=new StringTokenizer("zaki sara omar med : :");
+while (str.hasMoreElements()) {
+	System.out.println(str.nextToken());
+	
+}
+
+
+String sm="Je suis la";
+int d=sm.indexOf("suis");
+System.out.println(d);
+int d2=sm.indexOf("suis",5);
+System.out.println(d2);
+
+
+String[] sstr=sm.split("\\s");
+for(String lm:sstr) {
+	System.out.println(lm);
+}
+
+
+
+	}
+
+}

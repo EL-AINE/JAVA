@@ -1,0 +1,17 @@
+package fr.randy.prjt4s;
+public class LOOP {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String[] names= {"hmad","osama","vharaf","hamoda","karim"};
+		//extracted(names);
+		System.out.print(+names);
+}
+
+	/*private static void extracted(String[] names) {
+		int i;
+		for(i=0;i<names.length;i++) {
+System.out.println(names[i]);
+}
+	}
+}*/

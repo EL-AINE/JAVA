@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Inline local variable &apos;fr.randy.prjt4s.LOOP.main().Names&apos; in &apos;fr.randy.prjt4s.LOOP.main()&apos;&#x0D;&#x0A;- Original project: &apos;PRJT4S&apos;&#x0D;&#x0A;- Original element: &apos;fr.randy.prjt4s.LOOP.main().Names&apos;" description="Inline local variable &apos;Names&apos;" id="org.eclipse.jdt.ui.inline.temp" input="/src&lt;fr.randy.prjt4s{LOOP.java" selection="143 48" stamp="1599408317537" version="1.0"/>
+</session>

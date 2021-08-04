@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void LaSomme()&apos; from &apos;cqlculhqrirq.cqlculhqrirq.main()&apos; to &apos;cqlculhqrirq.cqlculhqrirq&apos;&#x0D;&#x0A;- Original project: &apos;cqlculhqrirq&apos;&#x0D;&#x0A;- Method name: &apos;LaSomme&apos;&#x0D;&#x0A;- Destination type: &apos;cqlculhqrirq.cqlculhqrirq&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;LaSomme&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;cqlculhqrirq{cqlculhqrirq.java" name="LaSomme" replace="false" selection="126 324" stamp="1602186703203" version="1.0" visibility="2"/>
+</session>

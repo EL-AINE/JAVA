@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/inistance_argmt/src/net/harera/inistance_argmt/method_argt7.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="net.harera.inistance_argmt.method_argt7"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="inistance_argmt"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="inistance_argmt"/>
+</launchConfiguration>
